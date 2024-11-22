@@ -14,6 +14,9 @@
 - 나이:29(만 28세)
 - 중앙대학교 예술공학부 재학 중
 - MBTI:ESTP/ESFP 반반
+- 프로그램 개발 약간 가능(Python)
+- E-mail:jin.park.skylah@gmail.com
+  
 <details>
 <summary><b>관련 TMI(클릭하면 열려요!)</b></summary>
 	
@@ -21,8 +24,11 @@
 - 내일 모레 서른이지만 마음만은 여고생 하고 싶어!(만 나이로는 내년에도 20대인데, 솔직히 20대는 아직 청춘 아닙니까...!) 
 - 예술공학부의 예술과 공학이 어려운 관계로 '부'를 맡겠습니다. 감사합니다.
 - 사람 좋아하니까 언제든 말 걸어도 됩니다.(해치지 않아요!)
-- 완전 저녁형 인간입니다. 해 뜰 때 자고 새벽에 활동합니다. 덕분에 월~목 1교시가 아주아주 힘드네요...😴 
+- 완전 저녁형 인간입니다. 해 뜰 때 자고 새벽에 활동합니다. 덕분에 월~목 1교시가 아주아주 힘드네요...😴
+- 간단한 프로그램 개발문의는 메일로 문의 주세요:)
+- 1학년 여름방학 UCEP 프로젝트 참여(영상1팀) 
 - 해바라기 이모지 달아놓은 이유는 해바라기를 좋아해서 입니다. 별 다른 뜻은 없습니다!(아무도 궁금해 한 적도 없을 정보라고 생각합니다)
+
 	
 </details>
   
@@ -97,15 +103,27 @@
 
 아무튼! 자꾸 말이 길어지는데, Term4동안 잘 부탁드립니다!!🙇‍♀️(기회가 생겨서 조금 더 친해진다면 그 이후에도 잘 부탁드립니다!!🙇‍♀️)
 
+</details>
 
+![라인](https://via.placeholder.com/1200x4/ffaca8/ffaca8)
+## 🌟 My GitHub Stats & Badges
+<details>
+<summary><b>🌟</b></summary>
 
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skylah0&show_icons=true&theme=radical)
 
+### 📈 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skylah0&theme=radical)
 
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=skylah0&theme=radical&no-frame=true&margin-w=15)
 
+### 🌐 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skylah0&layout=compact&theme=radical)
 
-
-
-
+### 💻 Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=skylah0&color=blue)
 
 </details>
 
